@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on [Cure-All app](https://github.com/Minoor01/CureAll-app)
 
-- 🌱 I’m currently learning **javascript, IOT applications**
+- 🌱 I’m currently learning **javascript, IOT**
 
 - 👯 I’m looking to collaborate on [Cure-All app](https://github.com/Minoor01/CureAll-app)
 
-- 🤝 I’m looking for help with [Help](help)
+<!- 🤝 I’m looking for help with [Help](help)>
 
 - 📫 How to reach me **minoor.pro@gmail.com**
 
-- ⚡ Fun fact **I'm also go by S21TP**
+- ⚡ Fun fact **I also go by S21TP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
