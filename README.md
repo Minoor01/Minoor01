@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [Cure-All app](https://github.com/Minoor01/CureAll-app)
 
-<!- 🤝 I’m looking for help with [Help](help)>
-
 - 📫 How to reach me **minoor.pro@gmail.com**
 
 - ⚡ Fun fact **I also go by S21TP**
