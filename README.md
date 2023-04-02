@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minoor01&label=Profile%20views&color=0e75b6&style=flat" alt="minoor01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minoor01" alt="minoor01" /></a> </p>
 
 - 🔭 I’m currently working on [Cure-All app](https://github.com/Minoor01/CureAll-app)
 
