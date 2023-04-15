@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minoor01&label=Profile%20views&color=0e75b6&style=flat" alt="minoor01" /> </p>
 
 
-- 🔭 I’m currently working on [Cure-All app](https://github.com/Minoor01/CureAll-app)
+- 🔭 I’m currently working on [RE_to_DFA_Direct_Method](https://github.com/Minoor01/RE_to_DFA_Direct_Method)
 
 - 🌱 I’m currently learning **javascript, IOT**
 
