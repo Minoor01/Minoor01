@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minoor01&label=Profile%20views&color=0e75b6&style=flat" alt="minoor01" /> </p>
 
 
-- 🔭 I’m currently working on [duburi_depth_hold](https://github.com/Minoor01/duburi_depth_hold)
+- 🔭 I’m currently working on [inventory_management](https://github.com/Minoor01/inventory_management)
 
 - 🌱 I’m currently learning **javascript, IOT**
 
